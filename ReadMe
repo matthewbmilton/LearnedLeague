@@ -1,0 +1,25 @@
+Learned League data in Power BI
+
+This repository contains a series of files that allow you to view and analyze your Learned League performance through Microsoft's Power BI.
+
+View your WLT record on a rundle-by-rundle basis.
+See your point spreads in a scatter chart.
+Compare your individual category performance across the League as a whole.
+
+Requirements:
+Power BI Desktop
+Excel
+Python
+
+High level overview of steps to take:
+Log in to LL
+Save your Profile page to your computer.
+Run Python scripts to:
+  extract data from this page to a .csv file
+  extract links to individual match days.
+  download/save each match day as a separate .htm file.
+  extract data from the match day files
+
+Open Excel and use a pre-built Power Query to consolidate all Match Days into a single file
+
+Open Power BI and Refreh to gather your data.
