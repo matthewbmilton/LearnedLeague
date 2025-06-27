@@ -1,5 +1,13 @@
 Learned League data in Power BI
 
+**WORK IN PROGRESS**
+**TO DO**
+*Break out personal results from the main file.
+*Build generic Excel file for match rollup, pointing to User-defined location.
+*Update .pbix to point to User-defined location.
+*Update .pbix to include LL logos, links, and disclaimers.
+
+
 This repository contains a series of files that allow you to view and analyze your Learned League performance through Microsoft's Power BI.
 
 View your WLT record on a rundle-by-rundle basis.
